@@ -1,3 +1,5 @@
-.quarto/ 
- _site/
+.quarto/
+_site/
 CV_Peio_Villanueva.Rmd
+
+/.quarto/
