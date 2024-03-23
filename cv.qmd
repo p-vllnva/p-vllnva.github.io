@@ -1,0 +1,113 @@
+---
+title: CV
+format: html  
+---
+
+PDF version [here](CV_Peio_Villanueva.pdf).
+
+# Research
+
+##  Doctoral research
+
+"Heterogeneous Firms and Optimal Emission Tax "
+
+A large number of environmental regulations take the form of industry standards
+imposed by the regulators, usually based on the least polluting technology
+already observed in the industry. Najjar and Cherniwchan find that industry
+standards in Canada have mostly affected the level of pollutant emissions
+through exits of plants and reallocations of the market shares of the surviving
+plants rather than through reduction of plants' emissions. More broadly, to the
+extent that more productive firms tend to pollute less per unit of output, any
+policy targeting emission rates might concentrate the activity and increase the
+market-power of large firms.
+To the best of my knowledge, this trade-off has not yet been at the forefront of
+the economic analysis. I propose to examine the effect of a given regulation on
+the markups of polluting markets and quantify the distortive effect of some
+environmental policies.
+
+## Masters' thesis 
+
+"Global sourcing and linguistic proximity" under the direction of Farid Toubal.
+
+## Data
+
+- Dataset from Refinitiv Eikon, 2022
+
+- Genetic distance and religions dataset, 2021
+
+- Demand in foreign language skills dataset from O\*NET, 2021
+
+- OECD ADIMA dataset 2018 vintage, 2019
+
+\newpage
+# Conferences and Workshops
+
+- Aarhus-Kiel Workshop, 2023
+
+# Education
+
+*Université Paris Dauphine-PSL*
+
+- Ph.D. Student, 2022-
+
+- M.Sc. International and Development Economics, *Cum Laude*, 2018-2021
+
+- BSc International and Development Economics, 2015-2018
+
+# Internships
+
+Research assistant, *Université Paris Dauphine-PSL*, October 2021 - April 2022
+
+Research assistant, *CEPII*, February 2019 - July 2019
+
+Research assistant, *OECD, Statistics and Data Directorate*, June 2018 - January 2019
+
+# Computer skills
+
+*R*:
+
+- Strong data management skills
+
+- Strong programming skills
+
+- Familiarity with most popular econometric packages
+
+- Keen interest in data visualization 
+
+*Python*:
+
+- Basic data manipulation with pandas
+
+- Basic programming
+
+*Stata*:
+
+- Basic data manipulation
+
+- Familiar with the most common regressions
+
+*C++*:
+
+- Basic programming skills, including parallelization with openMp
+
+- Linear algebra with Armadillo
+
+*Julia*:
+
+- Basic data management skills
+
+- Intermediate scientific programming skills
+
+*MATLAB*
+
+- Basic data management skills
+
+- Basic use of solvers and optimization functions
+
+# Languages
+
+*French*: native
+
+*English*: good enough
+
+*Spanish*: not brilliant

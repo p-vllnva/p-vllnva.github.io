@@ -1,0 +1,15 @@
+---
+title: Peio Villanueva
+about:
+  template: jolla
+  # image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:peio.villanueva@dauphine.psl.eu
+    - icon: github
+      text: Github
+      href: https://github.com/p-vllnva
+---
+
+I am a PhD student at Université Paris Dauphine-PSL.

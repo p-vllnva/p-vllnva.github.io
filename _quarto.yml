@@ -1,0 +1,36 @@
+# theme: jekyll-theme-minimal
+
+project:
+  type: website
+  resources:
+    - CV_Peio_Villanueva.pdf
+  
+website:
+  title: Peio Villanueva
+  search:
+    location: navbar
+    type: overlay
+  page-navigation: true
+  open-graph: true
+  navbar: 
+    background: "#2e4588"
+    foreground: "#FFFFFF"
+    left:
+      - cv.qmd
+      - research.qmd
+    tools: 
+      - icon: github
+        href: https://github.com/p-vllnva
+      - icon: envelope
+        href: mailto:peio.villanueva@dauphine.psl.eu
+      
+format:
+  html:
+    theme: lux
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    embed-resources: true
+    css: styles.css
+    linkcolor: "#2e4588"
