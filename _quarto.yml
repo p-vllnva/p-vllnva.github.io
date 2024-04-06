@@ -6,7 +6,7 @@ project:
     - CV_Peio_Villanueva.pdf
   
 website:
-  title: Peio Villanueva
+  title: Home
   search:
     location: navbar
     type: overlay
